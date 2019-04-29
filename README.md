@@ -15,4 +15,4 @@
 | 网卡     | REALTEK 10EC:B822 (无线网卡无解, 目前使用[小米USB有线网卡](https://item.jd.com/6107576.html)) |
 
 
-> 当前Clover版本: v2.4k_r4919
+> 当前Clover版本: v2.4k_r4920
